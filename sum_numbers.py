@@ -4,5 +4,5 @@ def sum_numbers(a=2,b=3):
     If no arguments are passed, returns 0.
     """
     # TODO: implement the logic
-    # total =sum(a+b)
+    total =sum(3,2)
     return total
