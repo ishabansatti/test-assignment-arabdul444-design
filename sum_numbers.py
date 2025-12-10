@@ -1,8 +1,8 @@
-def sum_numbers(*args):
+def sum_numbers(ags):
     """
     Returns the sum of all input numbers.
     If no arguments are passed, returns 0.
     """
     # TODO: implement the logic
-    # total = sum(args)
+    # total =sum(2,3)
     return total
